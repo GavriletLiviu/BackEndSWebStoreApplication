@@ -1,0 +1,24 @@
+[
+	{
+		"Id": "SSDSEAGATEIRONWOLF510192TBNVME",
+		"Title": "Ironwolf 510",
+		"Manufacturer": "Seagate",
+		"Capacity" : "1.92TB",
+		"Connector" : "M.2",
+		"Cache": "2048MB",
+		"MemoryType" : "3d TLC",
+		"FormFactor" : "80mm",
+		"Price" : 3020 
+	},
+	{
+		"Id": "SSDSAMSUNGPM883768TB",
+		"Title": "PM883 7.68TB",
+		"Manufacturer": "Samsung",
+		"Capacity" : "7.68TB",
+		"Connector" : "SATA III",
+		"Cache": "2048MB",
+		"MemoryType" : "TLC",
+		"FormFactor" : "2.5 inch",
+		"Price" : 8342 
+	}
+]

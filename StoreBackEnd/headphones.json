@@ -1,0 +1,20 @@
+[
+	{
+		"Id": "HEADPHONELOGITECHH800",
+		"Title": "H800",
+		"Manufacturer": "Logitech",
+		"Connectivity" : "wireless",
+		"Impedance" : "32 ohm",
+		"Microphone" : "yes",
+		"Price" : 1757
+	},
+	{
+		"Id": "HEADPHONEAUDIOTECHNICAATHG1",
+		"Title": "ATH-G1",
+		"Manufacturer": "Audio Technica",
+		"Connectivity" : "3.5mm jack",
+		"Impedance" : "45 ohm",
+		"Microphone" : "yes",
+		"Price" : 800
+	}
+]

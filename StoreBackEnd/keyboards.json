@@ -1,0 +1,24 @@
+[
+	{
+		"Id": "KEYLOGITECHG915TKLULTRASLIMLIGHTSPEEDWIRELESSBLUETOOTH",
+		"Title": "G915 TKL Ultraslim",
+		"Manufacturer": "Logitech",
+		"Connect" : "wireless and bluetooth",
+		"Lights" : "individual LED keys",
+		"Weight" : "81 g",
+		"Type" : "mechanical",
+		"Dimensions" : "368x150x22 mm",
+		"Price" : 1411
+	},
+		{
+		"Id": "KEYTHERMALTAKEKBLVTBLBRUS01LEVEL20RGB",
+		"Title": "KB-LVT-BLBRUS-01",
+		"Manufacturer": "Thermaltake",
+		"Connect" : "usb",
+		"Lights" : "individual LED keys",
+		"Weight" : "81 g",
+		"Type" : "mechanical",
+		"Dimensions" : "100x100x22 mm",
+		"Price" : 1214
+	}
+]

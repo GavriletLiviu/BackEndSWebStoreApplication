@@ -1,0 +1,32 @@
+[
+	{
+		"Id": "PWRSEASONICPRIMETX1300WTITANIUM",
+		"Title": "Prime TX 1300W Titanium",
+		"Manufacturer": "Seasonic",
+		"MaxPower" : "1300W",
+		"ConnectorSata" : "16xSATA",
+		"ConnectorPeripherial": "6xPeripherial",
+		"ConnectorMotherboard" : "20/24pin",
+		"ConnectorCpu" : "3xCPU 4+4pin",
+		"ConnectorPcie6" : "",
+		"ConnectorPcie8" : "8xPCIe 8pin",
+		"Format" : "ATX",
+		"Modularity" : "fuly-modular",
+		"Price" : 2951 
+	},
+	{
+		"Id": "PWRASUSROGTHOR1600WTITANIUM",
+		"Title": "Rog Thor 1600W",
+		"Manufacturer": "Asus",
+		"MaxPower" : "1600W",
+		"ConnectorSata" : "12xSATA",
+		"ConnectorPeripherial": "6xPeripherial",
+		"ConnectorMotherboard" : "20/24pin",
+		"ConnectorCpu" : "2xCPU 4+4pin",
+		"ConnectorPcie6" : "1xPCIe 6pin",
+		"ConnectorPcie8" : "10xPCIe 8pin",
+		"Format" : "ATX",
+		"Modularity" : "fully-modular",
+		"Price" :  4677
+	}
+]

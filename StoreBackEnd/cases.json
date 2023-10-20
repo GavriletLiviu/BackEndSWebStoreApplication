@@ -1,0 +1,30 @@
+[
+	{
+		"Id": "CSLIANLIO11DYNAMICXLROG",
+		"Title": "O11 Dynamic XL",
+		"Manufacturer": "Lian Li",
+		"Fans" : "10 x 120mm",
+		"Type" : "Full Tower",
+		"FrontInputs" : "1xUsb 3.1TypeC, 4xUsb3.0, 1xHDAudio",
+		"Dimensions" : "285x513x471mm",
+		"MotherboardFormat": "ATX, microATX, ExtendedATX, ITX",
+		"Color" : "black",
+		"Weight": "13.75kg",
+		"IncludedFans": "0",
+		"Price" : 1422
+	},
+	{
+		"Id": "CSLIANLILANCOOL215",
+		"Title": "Lancool 215",
+		"Manufacturer": "Lian Li",
+		"Fans" : "7 x 120mm or 4 x 140mm / 2 x 120mm",
+		"Type" : "Middle Tower",
+		"FrontInputs" : "2xUsb3.0, 1xHDAudio, 1xLed Control",
+		"Dimensions" : "215x482x462mm",
+		"MotherboardFormat": "ATX, microATX, extendedATX, ITX",
+		"Color" : "black",
+		"Weight": "8kg",
+		"IncludedFans": "3",
+		"Price" : 585
+	}
+]

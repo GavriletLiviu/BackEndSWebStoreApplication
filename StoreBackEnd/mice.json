@@ -1,0 +1,26 @@
+[
+	{
+		"Id": "MOUSELOGITECHMXMASTER1600DPI",
+		"Title": "MX Master 1600dpi",
+		"Manufacturer": "Logitech",
+		"Connection" : "wireless",
+		"Sensor" : "laser",
+		"Resolution" : "1600dpi",
+		"Buttons" : "5 buttons one scroll",
+		"Weight" : "145g",
+		"Dimensions" : "126x85x48.4mm",
+		"Price" :  1006
+	},
+		{
+		"Id": "MOUSERAZERDEATHADDERV3PRO30KDPI",
+		"Title": "Death Adder V3 Pro",
+		"Manufacturer": "Razer",
+		"Connection" : "wireless/usb",
+		"Sensor" : "Focus Pro 30k",
+		"Resolution" : "30000dpi",
+		"Buttons" : "5 buttons one scroll",
+		"Weight" : "63g",
+		"Dimensions" : "128x68x44mm",
+		"Price" : 839 
+	}
+]

@@ -1,0 +1,87 @@
+[
+	{
+		"Id": "MBAMDR97950X",
+		"Manufacturer": "amd",
+		"Title": "7950x",
+		"Family" : "Ryzen9",
+		"Socket" : "am5",
+		"BaseFrequency" : "4200mhz",
+		"BoostFrequency" : "5700mhz",
+		"Cores": "16",
+		"CacheL1" : "16000kb",
+		"CacheL3": "128mb",
+		"Tdp": "120w",
+		"Price" : 5073
+	},
+	{
+		"Id": "MBAMDR97950X3D",
+		"Manufacturer": "amd",
+		"Title": "7950x3d",
+		"Family" : "Ryzen9",
+		"Socket" : "am5",
+		"BaseFrequency" : "4200mhz",
+		"BoostFrequency" : "5700mhz",
+		"Cores": "16",
+		"CacheL1" : "16000kb",
+		"CacheL3": "128mb",
+		"Tdp": "120w",
+		"Price" : 4209
+	},
+	{
+		"Id": "MBAMDR97900X3D",
+		"Manufacturer": "amd",
+		"Title": "7900x3d",
+		"Family" : "Ryzen9",
+		"Socket" : "am5",
+		"BaseFrequency" : "4700mhz",
+		"BoostFrequency" : "5600mhz",
+		"Cores": "12",
+		"CacheL1" : "16000kb",
+		"CacheL3": "128mb",
+		"Tdp": "120w",
+		"Price" : 3098
+	},
+	{
+		"Id": "MBAMDR97900",
+		"Manufacturer": "amd",
+		"Title": "7900",
+		"Family" : "Ryzen9",
+		"Socket" : "am5",
+		"BaseFrequency" : "3700mhz",
+		"BoostFrequency" : "5400mhz",
+		"Cores": "12",
+		"CacheL1" : "16000kb",
+		"CacheL3": "128mb",
+		"Tdp": "120w",
+		"Price" : 2445
+	},
+	{
+		"Id": "MBAMDR77700",
+		"Manufacturer": "amd",
+		"Title": "7700",
+		"Family" : "Ryzen7",
+		"Socket" : "am5",
+		"BaseFrequency" : "4500mhz",
+		"BoostFrequency" : "5400mhz",
+		"Cores": "8",
+		"CacheL1" : "16000kb",
+		"CacheL3": "128mb",
+		"Tdp": "65w",
+		"Price" : 1883
+	},
+	{
+		"Id": "MBAMDR77600X",
+		"Manufacturer": "amd",
+		"Title": "7600x",
+		"Family" : "Ryzen7",
+		"Socket" : "am5",
+		"BaseFrequency" : "4700mhz",
+		"BoostFrequency" : "5300mhz",
+		"Cores": "8",
+		"CacheL1" : "16000kb",
+		"CacheL3": "128mb",
+		"Tdp": "65w",
+		"Price" : 1300
+	}
+]
+  
